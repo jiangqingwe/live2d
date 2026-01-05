@@ -257,11 +257,11 @@
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/bilibili-3/model.json"],
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/bilibili-33/model.json"],
     "message": "来自 bilibili 的 酱酱 ~"
   }, {
     "name": "Potion-Maker/Tia",
-    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/bilibili-3/model.json"],
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/bilibili-33/model.json"],
     "message": "来自 Potion Maker 的 Tia 酱 ~"
   }, {
     "name": "HyperdimensionNeptunia",
